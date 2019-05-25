@@ -8,7 +8,7 @@ Se pretende con este mapa observar la precipitación media anual por departament
 
 El servicio de Seguimiento y Pronóstico de la amenaza diaria por deslizamientos, tiene como objeto proveer información oportuna acerca de la probabilidad de ocurrencia de deslizamientos asociados a lluvias, es importante destacar que para el IDEAM el término “Deslizamientos” se utiliza de modo genérico e incluye a los movimientos en masa definidos como todo desplazamiento hacia abajo (vertical o inclinado en dirección del pie de una ladera) de un volumen de material litológico (roca, formación superficial o suelo) importante, en el cual el principal agente es la gravedad y que puede o no incluir el efecto del agua (IDEAM, 2004). El modelo de seguimiento y pronóstico de la amenaza diaria por deslizamientos diseñado por el IDEAM tiene como base el mapa nacional de susceptibilidad o propensión del terreno a presentar movimientos en masa y la precipitación diaria como agente detonante de dichos eventos. Diariamente el IDEAM genera los mapas y el boletín de pronóstico de la amenaza por deslizamientos de tierra detonados por lluvias.
 
-![alt text](MetodoNatualBreaks8 clases.png "Logo Title Text 1")
+![alt text](MetodoNatualBreaks8 clases.png"Logo Title Text 1")
 
 2. Por qué un mapa ayuda a resolverlo?
 
