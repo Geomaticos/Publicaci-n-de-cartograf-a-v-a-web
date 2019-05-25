@@ -28,4 +28,4 @@ Se utilizaron dos metodos de clasificación: Natural Breaks y Quantile. De lo cu
 
 6.Ventajas/ desventajas/ dificultades/ diferencias encontradas al utilizar qgis y arcgis para el desarrollo del ejercicio.
 
-
+![alt text](MetodoNatualBreaks8 clases.png "Logo Title Text 1")
