@@ -33,7 +33,7 @@ Se utilizaron dos metodos de clasificación: "Natural Breaks" y "Equal Interval"
 
 **Natual Breaks:** Las clases de cortes naturales se basan en las agrupaciones naturales inherentes a los datos. Los cortes de clase se caracterizan porque agrupan mejor los valores similares y maximizan las diferencias entre clases. Por tanto son los más adecuados para la clase de datos que tenemos.
 
-[Mapa Precipitación media anual año 2012 mediante clasificación Natural Breaks](https://raw.githubusercontent.com/Geomaticos/Publicacion-de-cartografia-via-web/master/MetodoNatualEqualInterv.png)
+[Mapa Precipitación media anual año 2012 mediante clasificación Natural Breaks](https://raw.githubusercontent.com/Geomaticos/Publicacion-de-cartografia-via-web/master/MetodoNatualBreaks8%20clases.png)
 
 **Equal Interval:** Los intervalos equivalentes dividen el rango de valores de atributo en subrangos de igual tamaño. Con ello se permite especificar el número de intervalos. Este tipo de clasificaciones no es recomendado cuando se grafican datos que no guardan una distribucion sistemática, como el caso de cualquier evento natural. 
 
