@@ -44,6 +44,13 @@ Se utilizaron dos metodos de clasificación: "Natural Breaks" y "Equal Interval"
 
 Se descargó la informacion correspondiente a precipitación media anual de la pagina de [Sistema de información ambiental de Colombia](http://www.siac.gov.co/catalogo-de-mapas) con la cual se puede graficar los poligonos de precipitación media anual. Este mapa nos describe zonas con igual cantidad de precipitacion anual en Colombia en el año 2012, por otra parte descargamos de la pagina https://sites.google.com/site/seriescol/shapes el shape con la informacion de departamentos los cuales pueden ser superpuestos con el para obtener los datos solicitados por los organismos de emergencia. 
 
+Información utilizada: 
+
+| Nombre        | Tipo           | Extensión  |
+| ------------- |:-------------:| -----:|
+|Precipitación     | Polígono | .shp |
+| Departamentos     | Polígono      |   .shp |
+
 ## 6.Ventajas/ desventajas/ dificultades/ diferencias encontradas al utilizar qgis y arcgis para el desarrollo del ejercicio.
 
 `Según las instrucciones del cliente, el trabajo fue realizado unicamente en el software Arc Gis. `
