@@ -4,7 +4,7 @@ Repositorio colaborativo para curso de publicación de cartografía vía web, Es
 #### Lorena Rayo Rocha
 #### Fernando Alcarcel Gutierrez
 #### Albeiro López Pulido
-
+---
 # Precipitación media anual año 2012 Colombia
 
 ## 1. Cuál es el problema a tratar?
@@ -29,7 +29,15 @@ Para la realización del trabajo se seleccionó la variable de precipitación an
 
 ## 4. Descripción de los métodos de clasificación seleccionados. Cuál es mejor para la variable seleccionada? por qué?
 
-Se utilizaron dos metodos de clasificación: Natural Breaks y Quantile. De lo cual observamos que no hay mucha diferencia entre las visualizaciones de los dos casos. 
+Se utilizaron dos metodos de clasificación: "Natural Breaks" y "Equal Interval". Los dos métodos los describimos a continuación:
+
+**Natual Breaks:** Las clases de cortes naturales se basan en las agrupaciones naturales inherentes a los datos. Los cortes de clase se caracterizan porque agrupan mejor los valores similares y maximizan las diferencias entre clases. Por tanto son los más adecuados para la clase de datos que tenemos.
+
+ ![alt text](MetodoNatualBreaks8 clases.png "Logo Title Text 1")
+
+**Equal Interval:** Los intervalos equivalentes dividen el rango de valores de atributo en subrangos de igual tamaño. Con ello se permite especificar el número de intervalos. Este tipo de clasificaciones no es recomendado cuando se grafican datos que no guardan una distribucion sistemática, como el caso de cualquier evento natural. 
+
+ ![alt text](MetodoNatualEqualInterv.png "Logo Title Text 1")
 
 ## 5. Listado de fuentes de datos seleccionados( proveedor, enlace para descarga, descripcón, procedimiento utilizado(plugins extensiones, procesos, transformaciones de datos, etc)
 
@@ -37,4 +45,4 @@ Se descargó la informacion correspondiente a precipitación media anual de la p
 
 ## 6.Ventajas/ desventajas/ dificultades/ diferencias encontradas al utilizar qgis y arcgis para el desarrollo del ejercicio.
 
-![alt text](MetodoNatualBreaks8 clases.png "Logo Title Text 1")
+'Según las instrucciones del cliente, el trabajo fue realizado unicamente en el software Arc Gis. '
