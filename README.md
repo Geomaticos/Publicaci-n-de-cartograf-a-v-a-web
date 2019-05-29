@@ -17,7 +17,7 @@ Para determinar el personal necesario por departamento disponible para atender a
 
 La visualizacion de datos espaciales permite determinar el efecto que el aumento de una variable tiene sobre una zona, en este caso, departamentos de Colombia. 
 
-Se consulta un mapa de precipitación total anual con el cual se pretende observar la precipitación media anual por departamento en Colombia en el año 2012 y con esto predecir zonas suceptibles a desastres naturales resultado de un aumento en las lluvias de una zona particular.
+Se consulta un **mapa de precipitación total anual** con el cual se pretende observar la precipitación media anual por departamento en Colombia en el año 2012 y con esto predecir zonas suceptibles a desastres naturales resultado de un aumento en las lluvias de una zona particular.
 
  ![alt text](MetodoNatualEqualInterv.png "Logo Title Text 1")
 
@@ -25,7 +25,8 @@ Mapa precipitación media anual del año 2012 para Colombia resaltando sus depar
 
 ## 3. Descripción del mapa temático (variable semleccionada, utilidad?
 
-Se utilizó un mapa de precipitacion media anual, el cual tiene unos poligonos que describen zonas con igual cantidad de precipitacion y se cruzan con los departamentos, para conocer la cantidad de precipitación en cada departamento 
+Se descargó la informacion de la pagina de [Sistema de información ambiental de Colombia](http://www.siac.gov.co/catalogo-de-mapas) con la cual se puede graficar los poligonos de precipitación media anual. Este mapa nos describe zonas con igual cantidad de precipitacion anual en Colombia en el año 2012, por tanto superponiendo con el mapa de departamentos de colombia podremos obtener los datos solicitados por los organismos de emergencia. 
+
 
 ## 4. Descripción de los métodos de clasificación seleccionados. Cuál es mejor para la variable seleccionada? por qué?
 
