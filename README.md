@@ -33,7 +33,7 @@ Se utilizaron dos metodos de clasificación: "Natural Breaks" y "Equal Interval"
 
 **Natual Breaks:** Las clases de cortes naturales se basan en las agrupaciones naturales inherentes a los datos. Los cortes de clase se caracterizan porque agrupan mejor los valores similares y maximizan las diferencias entre clases. Por tanto son los más adecuados para la clase de datos que tenemos.
 
- ![alt text](MetodoNatualBreaks8 clases.png "Logo Title Text 1")
+[Mapa Precipitación media anual año 2012 mediante clasificación Natural Breaks](https://raw.githubusercontent.com/Geomaticos/Publicacion-de-cartografia-via-web/master/MetodoNatualEqualInterv.png)
 
 **Equal Interval:** Los intervalos equivalentes dividen el rango de valores de atributo en subrangos de igual tamaño. Con ello se permite especificar el número de intervalos. Este tipo de clasificaciones no es recomendado cuando se grafican datos que no guardan una distribucion sistemática, como el caso de cualquier evento natural. 
 
@@ -46,4 +46,4 @@ Se descargó la informacion correspondiente a precipitación media anual de la p
 
 ## 6.Ventajas/ desventajas/ dificultades/ diferencias encontradas al utilizar qgis y arcgis para el desarrollo del ejercicio.
 
-´Según las instrucciones del cliente, el trabajo fue realizado unicamente en el software Arc Gis. ´
+`Según las instrucciones del cliente, el trabajo fue realizado unicamente en el software Arc Gis. `
