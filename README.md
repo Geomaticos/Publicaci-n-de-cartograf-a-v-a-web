@@ -37,7 +37,8 @@ Se utilizaron dos metodos de clasificación: "Natural Breaks" y "Equal Interval"
 
 **Equal Interval:** Los intervalos equivalentes dividen el rango de valores de atributo en subrangos de igual tamaño. Con ello se permite especificar el número de intervalos. Este tipo de clasificaciones no es recomendado cuando se grafican datos que no guardan una distribucion sistemática, como el caso de cualquier evento natural. 
 
- ![alt text](MetodoNatualEqualInterv.png "Logo Title Text 1")
+[Mapa Precipitación media anual año 2012 mediante clasificación Equal Interval](https://raw.githubusercontent.com/Geomaticos/Publicacion-de-cartografia-via-web/master/MetodoNatualEqualInterv.png)
+
 
 ## 5. Listado de fuentes de datos seleccionados( proveedor, enlace para descarga, descripcón, procedimiento utilizado(plugins extensiones, procesos, transformaciones de datos, etc)
 
@@ -45,4 +46,4 @@ Se descargó la informacion correspondiente a precipitación media anual de la p
 
 ## 6.Ventajas/ desventajas/ dificultades/ diferencias encontradas al utilizar qgis y arcgis para el desarrollo del ejercicio.
 
-'Según las instrucciones del cliente, el trabajo fue realizado unicamente en el software Arc Gis. '
+´Según las instrucciones del cliente, el trabajo fue realizado unicamente en el software Arc Gis. ´
