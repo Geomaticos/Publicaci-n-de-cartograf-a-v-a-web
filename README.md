@@ -1,11 +1,10 @@
 # Publicación de cartografía vía web
 Repositorio colaborativo para curso de publicación de cartografía vía web, Especialización en Geomática. 
 ## Investigadores:
-Lorena Rayo Rocha
-Fernando Alcarcel Gutierrez
-Albeiro López Pulido
+#### Lorena Rayo Rocha
+#### Fernando Alcarcel Gutierrez
+#### Albeiro López Pulido
 
-modifica
 # Precipitación media anual año 2012 Colombia
 
 ## 1. Cuál es el problema a tratar?
