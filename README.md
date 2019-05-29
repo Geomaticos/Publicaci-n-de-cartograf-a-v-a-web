@@ -4,9 +4,12 @@ modifica
 # Precipitación media anual año 2012 Colombia
 
 1. Cuál es el problema a tratar?
+
 Se pretende con este mapa observar la precipitación media anual por departamento en Colombia en el año 2012 y con esto predecir zonas suceptibles a desastres naturales resultado de un aumento en las lluvias de una zona particular. 
 
 El servicio de Seguimiento y Pronóstico de la amenaza diaria por deslizamientos, tiene como objeto proveer información oportuna acerca de la probabilidad de ocurrencia de deslizamientos asociados a lluvias.
+
+![alt text](MetodoNatualBreaks8 clases.png "Logo Title Text 1")
 
 ![alt text](MetodoNatualBreaks8 clases.png "Logo Title Text 1")
 
