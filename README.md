@@ -9,9 +9,7 @@ Se pretende con este mapa observar la precipitación media anual por departament
 
 El servicio de Seguimiento y Pronóstico de la amenaza diaria por deslizamientos, tiene como objeto proveer información oportuna acerca de la probabilidad de ocurrencia de deslizamientos asociados a lluvias.
 
-![alt text](MetodoNatualBreaks8 clases.png "Logo Title Text 1")
-
-![alt text](MetodoNatualBreaks8 clases.png "Logo Title Text 1")
+![alt text](MetodoNatualEqualInterv.png "Logo Title Text 1")
 
 2. Por qué un mapa ayuda a resolverlo?
 
