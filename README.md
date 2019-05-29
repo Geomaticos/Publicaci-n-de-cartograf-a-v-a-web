@@ -5,19 +5,23 @@ modifica
 
 ## 1. Cuál es el problema a tratar?
 
-Se pretende con este mapa observar la precipitación media anual por departamento en Colombia en el año 2012 y con esto predecir zonas suceptibles a desastres naturales resultado de un aumento en las lluvias de una zona particular. 
+Para determinar el personal necesario por departamento disponible para atender amenazas por deslizamientos en el año 2012, se requiere conocer la cantidad de lluvias anuales en cada departamento, sectorizado por cantidad de lluvias anuales y tomar esta información como insumo para conocer cual departamento necesita más inversión al respecto. 
 
-El servicio de Seguimiento y Pronóstico de la amenaza diaria por deslizamientos, tiene como objeto proveer información oportuna acerca de la probabilidad de ocurrencia de deslizamientos asociados a lluvias.
 
-![alt text](MetodoNatualEqualInterv.png "Logo Title Text 1")
 
 ## 2. Por qué un mapa ayuda a resolverlo?
 
 La visualizacion de datos espaciales permite determinar el efecto que el aumento de una variable tiene sobre una zona, en este caso, departamentos de Colombia. 
 
+Se consulta un mapa de precipitación total anual con el cual se pretende observar la precipitación media anual por departamento en Colombia en el año 2012 y con esto predecir zonas suceptibles a desastres naturales resultado de un aumento en las lluvias de una zona particular.
+
+ ![alt text](MetodoNatualEqualInterv.png "Logo Title Text 1")
+
+Mapa precipitación media anual del año 2012 para Colombia resaltando sus departamentos.
+
 ## 3. Descripción del mapa temático (variable semleccionada, utilidad?
 
-Se utilizó un mapa de precipitacion anual, el cual tiene unos poligonos que describen zonas con igual cantidad de precipitacion. 
+Se utilizó un mapa de precipitacion media anual, el cual tiene unos poligonos que describen zonas con igual cantidad de precipitacion y se cruzan con los departamentos, para conocer la cantidad de precipitación en cada departamento 
 
 ## 4. Descripción de los métodos de clasificación seleccionados. Cuál es mejor para la variable seleccionada? por qué?
 
