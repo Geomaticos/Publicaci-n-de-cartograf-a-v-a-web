@@ -25,8 +25,7 @@ Mapa precipitación media anual del año 2012 para Colombia resaltando sus depar
 
 ## 3. Descripción del mapa temático (variable semleccionada, utilidad?
 
-Se descargó la informacion de la pagina de [Sistema de información ambiental de Colombia](http://www.siac.gov.co/catalogo-de-mapas) con la cual se puede graficar los poligonos de precipitación media anual. Este mapa nos describe zonas con igual cantidad de precipitacion anual en Colombia en el año 2012, por tanto superponiendo con el mapa de departamentos de colombia podremos obtener los datos solicitados por los organismos de emergencia. 
-
+Para la realización del trabajo se seleccionó la variable de precipitación anual medida en mm por año, la cual se obtiene con un Pluviómetro manual lo cual es un indicador simple de la lluvia caída, consiste en un recipiente especial cilíndrico, por lo general de plástico, con una escala graduada en donde todas las marcas están a igual distancia entre sí. La altura del agua que llena la jarra es equivalente a la precipitación y se mide en mm. 
 
 ## 4. Descripción de los métodos de clasificación seleccionados. Cuál es mejor para la variable seleccionada? por qué?
 
@@ -34,7 +33,7 @@ Se utilizaron dos metodos de clasificación: Natural Breaks y Quantile. De lo cu
 
 ## 5. Listado de fuentes de datos seleccionados( proveedor, enlace para descarga, descripcón, procedimiento utilizado(plugins extensiones, procesos, transformaciones de datos, etc)
 
-
+Se descargó la informacion correspondiente a precipitación media anual de la pagina de [Sistema de información ambiental de Colombia](http://www.siac.gov.co/catalogo-de-mapas) con la cual se puede graficar los poligonos de precipitación media anual. Este mapa nos describe zonas con igual cantidad de precipitacion anual en Colombia en el año 2012, por otra parte descargamos de la pagina https://sites.google.com/site/seriescol/shapes el shape con la informacion de departamentos los cuales pueden ser superpuestos con el para obtener los datos solicitados por los organismos de emergencia. 
 
 ## 6.Ventajas/ desventajas/ dificultades/ diferencias encontradas al utilizar qgis y arcgis para el desarrollo del ejercicio.
 
