@@ -54,3 +54,7 @@ Información utilizada:
 ## 6.Ventajas/ desventajas/ dificultades/ diferencias encontradas al utilizar qgis y arcgis para el desarrollo del ejercicio.
 
 `Según las instrucciones del cliente, el trabajo fue realizado unicamente en el software Arc Gis. `
+
+<iframe width="100%" height="520" frameborder="0" src="https://geomaticos.carto.com/builder/7e2d1522-5239-42f4-8ee4-bbf5baa12f10/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+
